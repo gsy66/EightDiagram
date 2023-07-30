@@ -1,0 +1,1 @@
+from ui.Childwindow import Ui_Dialog
